@@ -8,12 +8,7 @@ The data being analyzed is sales data from Montgomery county in Maryland. It has
 ---
 
 Assuming the liqour market is a perfectly competitive market depicted by the graphs shown below, this is the model we will be basing our analysis off of.
-
-![image](https://github.com/evanbruno617/Sales_Analysis/assets/98506425/cba8a05a-1293-4bb7-b30f-5403341b800f)
-
 When there are shifts in Industry demand each firms profit functions are affected by shifting the supply curve of each firm therefore increasing or decreasing profit. Therefore if there is an increase in sales it is assumed that industry demand shifts up therefore increasing the overall price of that product and vice versa.
-
-![image](https://github.com/evanbruno617/Sales_Analysis/assets/98506425/4083684c-2e45-422a-94c3-5069386dcb98)
 
 # Market Analysis
 ---
