@@ -2,7 +2,7 @@
 
 # Purpose
 ---
-The data being analyzed is sales data from Montgomery county in Maryland. It has all the sames of liquor from each month since 2017 gathered into one Dataset. The purpose of this analysis is to analyze that data and draw strategies for suppliers and consumers. 
+The data being analyzed is sales data from Montgomery county in Maryland. It contains all of the sales of liquor from each month since 2017 gathered into one Dataset. The purpose of this analysis is to analyze that data and draw strategies for suppliers and consumers. 
 
 # Market
 ---
